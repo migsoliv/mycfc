@@ -22,7 +22,7 @@ Não autorizo usos comerciais autónomos, publicidade de terceiros, reconhecimen
 
 ## Menores
 
-O representante declara possuir legitimidade para decidir e compromete-se a considerar a opinião e o superior interesse do menor, atendendo à sua idade e maturidade. O CFC deve respeitar a oposição do menor sempre que seja capaz de a exprimir e não publicará imagens em balneários, situações de vulnerabilidade, assistência médica ou contextos suscetíveis de expor localização, rotinas ou informação sensível.
+O tutor declara possuir legitimidade para decidir e compromete-se a considerar a opinião e o superior interesse do menor, atendendo à sua idade e maturidade. O CFC deve respeitar a oposição do menor sempre que seja capaz de a exprimir e não publicará imagens em balneários, situações de vulnerabilidade, assistência médica ou contextos suscetíveis de expor localização, rotinas ou informação sensível.
 
 ## Retirada e duração
 
