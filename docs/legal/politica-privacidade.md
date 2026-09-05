@@ -6,7 +6,7 @@ Entrada em vigor: **[a deliberar]**
 
 ## 1. Quem é responsável
 
-O responsável pelo tratamento é o **Clube Fluvial de Coimbra**, associação cultural e desportiva sem fins lucrativos, NIPC **502 440 597**, com morada na Avenida Inês de Castro, Pavilhão A, 3040-255 Coimbra («CFC»).
+O responsável pelo tratamento é o **Clube Fluvial de Coimbra**, associação sem fins lucrativos, NIPC **502 440 597**, com morada na Avenida Inês de Castro, Pavilhão A, 3040-255 Coimbra («CFC»).
 
 Contacto geral e, até a Direção aprovar um canal dedicado, contacto para dados pessoais: `cfluvialcoimbra@gmail.com`. A designação de encarregado da proteção de dados, caso exista ou venha a ser legalmente necessária, será publicada aqui.
 
@@ -14,12 +14,12 @@ Esta política abrange o MyCFC. O website público `cfcoimbra.com` mantém atual
 
 ## 2. A quem e a que dados se aplica
 
-Tratamos dados de visitantes, candidatos, associados, atletas, responsáveis por menores, treinadores, dirigentes, moderadores e outras pessoas que usam ou surgem legitimamente nas operações do clube.
+Tratamos dados de visitantes, candidatos, sócios (diferentes qualidades), atletas, responsáveis por menores (tutores), treinadores, dirigentes, moderadores e outras pessoas que usam ou surgem legitimamente nas operações do clube.
 
 Consoante a relação e funcionalidades usadas, podemos tratar:
 
-- identificação e conta: nome, data de nascimento, email, identificador de menor, estado da conta e credenciais protegidas;
-- relação com o clube: época, programa, equipa, modalidade, categoria, funções, permissões e responsabilidade por menor;
+- identificação e conta: nome, data de nascimento, email, identificador (tutor?) de menor, estado da conta e credenciais protegidas;
+- relação com o clube: época, programa, equipa, modalidade, especialidade, categoria, funções, permissões e responsabilidade por menor;
 - contacto e perfil: telefone, morada, identificação oficial e número de licença federativa, quando necessários;
 - segurança e emergência: contacto de emergência, restrições à atividade, alergias, medicação e outras informações de saúde voluntariamente facultadas no campo próprio;
 - atividade desportiva: planos, sessões, presenças, respostas, resultados, distância, duração, perceção de esforço e métricas;
@@ -55,7 +55,7 @@ Não use campos livres comuns para comunicar saúde. Em emergência, podem ser c
 
 ## 5. Crianças e responsáveis
 
-O responsável fornece apenas os dados necessários do menor e declara legitimidade. O CFC verifica a relação quando necessário, presta informação adequada à idade, ouve a opinião do menor segundo maturidade e superior interesse e reavalia acessos quando a relação muda ou o menor atinge a maioridade.
+O tutor fornece apenas os dados necessários do menor e declara legitimidade. O CFC verifica a relação quando necessário, presta informação adequada à idade, ouve a opinião do menor segundo maturidade e superior interesse e reavalia acessos quando a relação muda ou o menor atinge a maioridade.
 
 Em Portugal, para consentimento relativo a oferta direta de serviços da sociedade da informação, a Lei n.º 58/2019 fixa em 13 anos a idade mínima; abaixo dessa idade intervêm os representantes legais, preferencialmente com autenticação segura. Esta regra não transforma consentimento na base de todos os tratamentos do clube nem substitui as regras gerais de capacidade e responsabilidades parentais.
 
@@ -67,7 +67,7 @@ Pode retirar a autorização. Impedimos novos usos e atuamos sobre cópias sob c
 
 ## 7. Destinatários e prestadores
 
-O acesso interno é concedido por função e necessidade. Dados podem ser comunicados, no mínimo necessário, a federações e organizadores de provas, seguradoras, profissionais de saúde/emergência, autoridades e consultores sujeitos a confidencialidade.
+??? - não deve ser facultado estes dados!! - O acesso interno é concedido por função e necessidade. Dados podem ser comunicados, no mínimo necessário, a federações e organizadores de provas, seguradoras, profissionais de saúde/emergência, autoridades e consultores sujeitos a confidencialidade.
 
 O MyCFC utiliza categorias de prestadores para alojamento e operação: infraestrutura Hetzner, proteção de rede/DNS Cloudflare (incluindo Turnstile onde configurado), serviços AWS que suportam DNS, imagens de software, email ou cópias de segurança conforme a configuração de produção, e fornecedores de correio eletrónico. O registo interno identifica entidade, serviço, localização, contrato e transferências. Não se deve publicar um fornecedor futuro como destinatário ativo antes da ativação.
 
