@@ -5,15 +5,15 @@ Entrada em vigor: **[a deliberar]**
 
 ## 1. Identificação e objeto
 
-O MyCFC é a plataforma digital do Clube Fluvial de Coimbra, associação cultural e desportiva sem fins lucrativos, NIPC 502 440 597, com sede na Avenida Inês de Castro, Pavilhão A, 3040-255 Coimbra, adiante «CFC».
+O MyCFC é a plataforma digital do Clube Fluvial de Coimbra, associação sem fins lucrativos, NIPC 502 440 597, com sede na Avenida Inês de Castro, Pavilhão A, 3040-255 Coimbra, adiante «CFC».
 
-Estes termos regulam a criação e utilização de contas MyCFC e as funcionalidades disponibilizadas a atletas, associados, responsáveis por menores, treinadores, moderadores e dirigentes. Não substituem os estatutos, regulamentos internos, regras federativas, decisões dos órgãos sociais, condições de seguro ou normas específicas de cada atividade. Em caso de conflito, prevalecem a lei e os instrumentos do CFC aplicáveis.
+Estes termos regulam a criação e utilização de contas MyCFC e as funcionalidades disponibilizadas a atletas, sócios, responsáveis por menores (tutores), treinadores, moderadores e dirigentes. Não substituem os estatutos, regulamentos internos, regras federativas, decisões dos órgãos sociais, condições de seguro ou normas específicas de cada atividade. Em caso de conflito, prevalecem a lei e os instrumentos do CFC aplicáveis.
 
 ## 2. Conta e acesso
 
 O utilizador deve fornecer dados verdadeiros, atuais e necessários, proteger as suas credenciais, não partilhá-las e informar o CFC sem demora se suspeitar de acesso indevido. O CFC pode exigir verificação razoável de identidade.
 
-As permissões dependem da relação atual com o clube, inscrição, equipa, programa, responsabilidade por menor e funções atribuídas. O simples acesso à plataforma não cria a qualidade de associado, atleta, treinador ou dirigente.
+As permissões dependem da relação atual com o clube, inscrição, equipa, programa, responsabilidade por menor e funções atribuídas. O simples acesso à plataforma não cria a qualidade de sócio, atleta, treinador ou dirigente.
 
 Contas de menores são criadas e geridas nos termos da declaração de responsabilidade e das regras do CFC. O identificador de acesso de um menor é pessoal e não deve ser divulgado.
 
