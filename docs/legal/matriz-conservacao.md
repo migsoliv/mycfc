@@ -8,8 +8,8 @@ As ações possíveis são: **apagar**, **anonimizar**, **reter com acesso restr
 | Categoria/sistema | Conteúdo | Finalidade/base proposta | Destinatários | Prazo proposto | Ação no apagamento | Responsável/controlo |
 |---|---|---|---|---|---|---|
 | `users` | Nome, nascimento, email/ID menor, estado, hash e versão credencial, tutor | Conta e relação contratual | Administração autorizada | Relação + 90 dias | Apagar identificadores/credenciais; conservar principal pseudónimo apenas se necessário a registos retidos | Privacidade + TI |
-| `member_profiles` | Morada, contactos, identificação, licença FPC | Gestão de membro/federação | Secretaria, FPC quando aplicável | Relação + 90 dias, salvo obrigação documentada | Apagar; restringir apenas campos com fundamento/prazo | Secretaria |
-| Saúde/emergência em `member_profiles` | Alergias, condições, medicação, restrições, notas e contacto | Segurança; artigo 9.º a aprovar | Pessoal estritamente necessário/emergência | Enquanto necessário; revisão anual e no fim da época; máximo 30 dias após fim salvo incidente | Apagar; registo do incidente separado e restrito se necessário | Responsável de salvaguarda |
+| `member_profiles` | Morada, contactos, identificação, licença FPC | Gestão de membro/federação | Secretaria, FPC quando aplicável(??) | Relação + 90 dias, salvo obrigação documentada | Apagar; restringir apenas campos com fundamento/prazo | Secretaria |
+| Saúde/emergência em `member_profiles`(???) | Alergias, condições, medicação, restrições, notas e contacto | Segurança; artigo 9.º a aprovar | Pessoal estritamente necessário/emergência | Enquanto necessário; revisão anual e no fim da época; máximo 30 dias após fim salvo incidente | Apagar; registo do incidente separado e restrito se necessário | Responsável de salvaguarda |
 | Foto de perfil/consentimento | Objeto privado, metadados, versão de consentimento | Identificação opcional/consentimento | Públicos autenticados autorizados | Até remoção, retirada ou fim da relação + 30 dias | Apagar objeto e metadados; reter prova mínima de decisão/retirada até prescrição aprovada | Privacidade + TI |
 | `consent_forms` | Tipo, versão, hash, decisão, data, concedente, IP, agente | Provar consentimento/declaração | Privacidade/jurídico | Vigência + prazo de defesa a aprovar; rever necessidade de IP/UA após 12 meses | Restringir prova mínima; apagar IP/UA antecipadamente | Privacidade |
 | Relações/tutor e credenciais menores | Tutor, emissão/recuperação e atores | Proteção e acesso do menor | Secretaria/privacidade | Durante relação; auditoria pelo prazo de defesa aprovado | Resolver transferência/encerramento; pseudonimizar auditoria | Privacidade |
@@ -39,8 +39,8 @@ As ações possíveis são: **apagar**, **anonimizar**, **reter com acesso restr
 
 ## Lacunas que bloqueiam aprovação
 
-- confirmar fundamento do artigo 9.º e necessidade de cada campo médico;
-- confirmar prazos fiscais, de quotas/pagamentos (quando existirem), seguros, acidentes, federação e responsabilidade civil;
+- confirmar fundamento do artigo 9.º e necessidade de cada campo médico; MO: acho que podemos retirar.
+- confirmar prazos fiscais, de quotas/pagamentos (quando existirem), seguros, acidentes, federação e responsabilidade civil; MO: acho que podem existir alertas de falta de pagamento.. mas na mycfc por agora acho que será demais.
 - inventariar nomes/durações reais de cookies, configuração Cloudflare/Turnstile e logs;
 - confirmar subprocessadores, localizações, contratos, transferências e prazos de Hetzner, Cloudflare, AWS e SMTP;
 - decidir se 365 dias de backup mensal são necessários e garantir que o ledger de apagamento cobre o backup restaurável mais antigo;
